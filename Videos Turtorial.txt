@@ -1,5 +1,17 @@
 # Github-Turtorial-Video
-
+add folder hw1 and hw2 to git hub to github
+first git status and ls to find exactkh the name, if read color mean not add to repository yet so need to do
+git add hw1/(for folder) or hw2(for folder). IF the file just type the name of the file include the tail exp: hw1.java
+after that check again if the green color mean already add to repository and ready to upload to github online.
+you can you online to added by drap and drop so easy,but I would like to show all case I meet.
+do git status to check again
+then git commit -m "describe your work"
+git push (poom dome!!!)
+Summary : 
+git status 
+git add (file or folder name)
+git commit -m "comment"
+git push
 # Mac And Portable Storage Compatible 
 https://www.youtube.com/watch?v=5webKL1NoQk
 https://www.youtube.com/watch?v=AjrANwHSVms
