@@ -27,6 +27,8 @@ git config user.name "Mona Lisa"
 Confirm that you have set the Git username correctly:
 git config user.name
 Mona Lisa
+# can not commit or add because branch problem you can check out at this link below 
+https://www.atlassian.com/git/tutorials/using-branches
 # Mac And Portable Storage Compatible 
 https://www.youtube.com/watch?v=5webKL1NoQk
 https://www.youtube.com/watch?v=AjrANwHSVms
