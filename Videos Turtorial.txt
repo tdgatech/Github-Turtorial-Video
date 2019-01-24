@@ -12,6 +12,21 @@ git status
 git add (file or folder name)
 git commit -m "comment"
 git push
+#githib asking for who you are
+Setting your Git username for every repository on your computer
+Open Terminal.Set a Git username:
+Run excact the same in the "" is your address and your name 
+Confirm that you have set the Git username correctly:
+git config --global user.email "you@example.com" ("tômcá@yahoo.com")
+git config --global user.name "Your Name" ("bầucua").
+# Setting your Git username for a single repository
+Open Terminal
+Change the current working directory to the local repository where you want to configure the name that is associated with your Git commits.
+Set a Git username:
+git config user.name "Mona Lisa"
+Confirm that you have set the Git username correctly:
+git config user.name
+Mona Lisa
 # Mac And Portable Storage Compatible 
 https://www.youtube.com/watch?v=5webKL1NoQk
 https://www.youtube.com/watch?v=AjrANwHSVms
