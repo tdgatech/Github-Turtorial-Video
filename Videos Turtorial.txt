@@ -32,3 +32,4 @@ https://www.atlassian.com/git/tutorials/using-branches
 # Mac And Portable Storage Compatible 
 https://www.youtube.com/watch?v=5webKL1NoQk
 https://www.youtube.com/watch?v=AjrANwHSVms
+git push power (git push origin master --force)
